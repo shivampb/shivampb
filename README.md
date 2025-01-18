@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivampb
+- 👋 Hi, I’m shivam bhardwaj
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning 
 <!---
